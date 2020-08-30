@@ -1,4 +1,3 @@
-<p></p>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
@@ -91,3 +90,4 @@
 <div style="background-color: grey; color: #ffffff; min-height: 10px; padding: 1px; text-align: left;">Marketing course in Industrial Management Organization</div>
 <div style="background-color: #ffffff; color: #ffffff; max-height: 2px; padding: 0px;">&nbsp;</div>
 <div style="background-color: grey; color: #ffffff; min-height: 10px; padding: 1px; text-align: left;">Establishment of ISO 9001: 2008 quality management system - industrial management</div>
+<h3 style="text-align: center;"><a href="https://github.com/ali-rezvan/resume-in-persian/blob/gh-pages/files/ali%20rezvan.pdf">Resume evaluation</a></h3>
