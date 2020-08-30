@@ -3,10 +3,10 @@
 <tbody>
 <tr>
 <td style="width: 33%; text-align: center;">
-<h4><a href="https://ali-rezvan.github.io/Naive-Pattern-Searching/">algorithm simulation</a></h4>
+<h4><strong><a href="https://ali-rezvan.github.io/Naive-Pattern-Searching/">Algorithm Simulation</a></strong></h4>
 </td>
 <td style="width: 33%; text-align: center;">
-<h4><a href="https://quera.ir/profile/ali.rezvan">Quera</a></h4>
+<h4><strong><a href="https://quera.ir/profile/ali.rezvan">Quera</a></strong></h4>
 </td>
 <td style="width: 33%; text-align: center;"><a href="https://ali-rezvan.github.io/resume-in-persian/"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/ir.png" alt="" width="43" height="40" /></a></td>
 </tr>
