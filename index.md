@@ -3,10 +3,10 @@
 <tbody>
 <tr>
 <td style="width: 33%; text-align: center;">
-<h5>algorithm simulation</h5>
+<h4>algorithm simulation</h4>
 </td>
 <td style="width: 33%; text-align: center;">
-<h5>Quera</h5>
+<h4>Quera</h4>
 </td>
 <td style="width: 33%; text-align: center;"><a href="https://ali-rezvan.github.io/resume-in-persian/"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/ir.png" alt="" width="43" height="40" /></a></td>
 </tr>
@@ -20,39 +20,39 @@
 <tbody>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">
-<h5>date of Birth : 1355</h5>
+<h4>date of Birth : 1355</h4>
 </td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">
-<h5>Military Status: End of Service Card</h5>
+<h4>Military Status: End of Service Card</h4>
 </td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">
-<h5>Marital status: Married</h5>
+<h4>Marital status: Married</h4>
 </td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">
-<h5>Number of children: 1</h5>
+<h4>Number of children: 1</h4>
 </td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">
-<h5>Contact number: 09177028921</h5>
+<h4>Contact number: 09177028921</h4>
 </td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">
-<h5>Email : ali.rezvan@gmail.com</h5>
+<h4>Email : ali.rezvan@gmail.com</h4>
 </td>
 </tr>
 </tbody>
 </table>
 </td>
 <td style="width: 50%; text-align: center;">
-<h5><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-english/gh-pages/0.jpg" alt="" width="150" height="150" /></h5>
+<h4><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-english/gh-pages/0.jpg" alt="" width="150" height="150" /></h4>
 </td>
 </tr>
 </tbody>
